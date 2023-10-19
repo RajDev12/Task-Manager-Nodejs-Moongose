@@ -7,10 +7,10 @@
 
 ### **(How to start the project!)**
 
-- ➕ npm install on api directory
-- ➕ npm install on dashboard directory
-- ➕ Command "npm start" to start api
-- ➕ Command "npm run dev" to start frontend
+- ➕ Download the main file & follow the next step
+- ➕ Go to api folder and Command "npm start" to start api
+- ➕ Go to dashboard folder Command "npm run dev" to start frontend
+- ➕ All done! & visite http://localhost:3000/
 
 ## 😃 Features:
 
